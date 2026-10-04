@@ -1,0 +1,28 @@
+{
+  "name": "Chief Executive Officer",
+  "description": "Leading MitSna's vision and strategic direction",
+  "order": 10,
+  "members": [
+    {
+      "name": "Chirom Meiraba",
+      "position": "Chief Executive Officer",
+      "photo": "/media/team/executive-chirom-meiraba.jpg",
+      "bio": "Meiraba, a recipient of Young Scientist Award, is an enthusiastic science communicator. He maintained a good academic record since his high school days and secured 9th Position in HSLC’12. After winning the prestigious INSPIRE Fellowship, he went to IISER Kolkata to pursue BS-MS degree in Chemical Sciences where he also got exposed to teaching as a Teaching Assistant. He underwent training at various places: NTU Singapore (Global Rank 11), National Chemical Lab Pune, IIT Guwahati, and MU and finally went on to receive a DPhil admission offer from the University of Oxford, UK with OCSI Scholarship. He is also a Karateka who won Silver Medal in the Inter Districts. He is using his years of training in research to address issues of education in Manipur by leading a dedicated executive team at MitSna and as its Founder. He is a DAAD alumnus and currently at the University of Houston, Texas, US, as a doctoral candidate.",
+      "current_role": "Doctoral Candidate (Chemistry) at the University of Houston, Texas, US",
+      "achievements": [
+        "DAAD Rise Alumnus",
+        "University of Oxford DPhil Admission Offer with OCSI Scholarship",
+        "Young Scientist Award Recipient",
+        "INSPIRE (SHE) Fellow",
+        "Inter-District Karate Silver medalist",
+        "9th Position HSLC'12",
+        "Capt Khomdram Satishkumar Memorial Award from BOSEM",
+        "State Merit Scholarship Recipent from Govt of MAnipur"
+      ],
+      "email": "meiraba.chirom@mitsna.org",
+      "linkedin": "http://www.linkedin.com/in/meiraba-chirom",
+      "instagram": "https://www.instagram.com/chirom_meiraba?igsh=MWpmcmV0Znd1ODZscQ==",
+      "website": "https://sites.google.com/mitsna.org/meirabachirom/home"
+    }
+  ]
+}

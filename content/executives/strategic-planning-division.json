@@ -1,0 +1,29 @@
+{
+  "name": "Strategic Planning Division",
+  "description": "Shaping our strategic initiatives and future direction",
+  "order": 20,
+  "members": [
+    {
+      "name": "Chingkhei Wangjam",
+      "position": "Chief Strategy Officer",
+      "photo": "/media/team/executive-chingkhei-wangjam.jpg",
+      "bio": "Chingkhei Wangjam is a public policy professional working in the areas of education policy, capacity building, and skill development. He has over six years of experience designing and implementing large-scale public programmes for the Indian Government, with a focus on translating policy research, field data, and stakeholder inputs into practical and scalable models. He has worked closely with central ministries and state governments to lead capacity needs assessments, develop training strategies, curate learning modules, and train bureaucrats and civil servants in citizen-centric governance. Beyond his work in the public sector, he has been associated with the MitSna Foundation for more than six years in leadership positions, as COO and CSO, contributing to organisational strategy, operations, and youth-focused initiatives aimed at education, skills, and cross-cultural engagement.to his role while contributing effectively to the teams and projects he engages with.",
+      "email": "ckwangjam@mitsna.org",
+      "linkedin": "https://www.linkedin.com/in/chingkhei-wangjam-4a6358166/"
+    },
+    {
+      "name": "Thounaojam Raj",
+      "position": "Strategy Officer",
+      "photo": "/media/team/executive-thounaojam-raj.jpg",
+      "bio": "Thounaojam Raj is a Civil Engineering graduate from NIT Manipur, where he also served as a Training and Placement (TNP) coordinator. Known for his cheerful, adaptive, and hardworking approach, he has honed strong leadership and communication skills through his experience in coordinating placements and working with industry professionals. He is currently working as an Engineer Trainee at Power Grid Corporation of India Limited and has recently been appointed as the Assistant Strategy Officer of Mitsna, bringing a strategic mindset to his role while contributing effectively to the teams and projects he engages with.",
+      "email": "raj@mitsna.org",
+      "linkedin": "https://www.linkedin.com/in/thounaojam-raj-b201a3224/"
+    },
+    {
+      "name": "Laishram Yashmine",
+      "position": "Assistant Strategy Officer",
+      "photo": "/media/team/executive-laishram-yashmine.jpg",
+      "bio": "Laishram Yashmine Devi, Assistant Strategy Officer at MitSna, combines a robust scientific background with a passion for educational advancement and social impact. Pursuing her Master’s in Microbiology and Immunology at National Yang Ming Chiao Tung University (NYCU) in Taipei, she holds a Bachelor’s degree in Biology from IISER Tirupati and brings valuable experience in leadership and strategic planning. As a former Campus Director of the Millennium Fellowship, she led initiatives supporting the UN’s Sustainable Development Goals, reflecting her commitment to empowering communities. At MitSna, Yashmine plays a pivotal role in shaping strategies that align with the organization’s mission to promote education and foster growth in Manipur"
+    }
+  ]
+}

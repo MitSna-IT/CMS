@@ -1,0 +1,19 @@
+{
+  "name": "Human Resources",
+  "description": "Supporting our team and fostering growth",
+  "order": 70,
+  "members": [
+    {
+      "name": "Romanika Elangbam",
+      "position": "Human Resource Executive",
+      "photo": "/media/team/executive-romanika-elangbam.jpg",
+      "bio": "I finished my Bachelors in Business Administration from Institute of Cooperative Management, Lamphelpat in the year 2021 and I’m currently pursuing my MBA final year at NIT, Agratala. I find gardening to be a relaxing and fulfilling activity that brings me joy. My interest in gardening was kindled during my early teens. Most of my plant collection are house plants which include varieties of succulents, monstera, snake plant.I’ve always been a individual who adores to get along with a well enlightened environment. I’m so excited to have such opportunity to get myself contribute in developing our society. I’ve always wanted to help our diverse environment with no distinction. I want to help people around me at my best capacity"
+    },
+    {
+      "name": "PRETTY RAJKUMARI",
+      "position": "Assistant Human Resource Executive",
+      "photo": "/media/team/executive-pretty-rajkumari.jpg",
+      "bio": "Pretty Rajkumari is an undergraduate psychology student known for her keen attention to detail and disciplined approach to her work. An introverted extrovert, she enjoys balancing her dedication to tasks with a relaxed demeanor. Outside of work, you’ll often find her immersed in a book, singing, catching up on a movie or drama series, or simply unwinding. A sports enthusiast with a particular passion for basketball, Rajkumari brings both energy and calmness to any environment."
+    }
+  ]
+}
