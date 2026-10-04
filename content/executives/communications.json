@@ -1,21 +1,35 @@
 {
-  "name": "Communications",
+  "name": "Public Relations",
   "description": "Managing internal and external communications",
   "order": 50,
   "members": [
     {
       "name": "Lanthouchung Gonmei",
       "position": "Public Relations Officer",
-      "photo": "/media/team/executive-lanthouchung-gonmei.jpg",
-      "bio": "Lanthouchung Gonmei is a dynamic a fourth-year Architecture student at Pune University, Maharastra with a deep passion for design and a unique flair for Minimalist and Brutalist Architecture. With a passion for leadership, he has served as the Publicity Secretary of Manipur Students Association Pune and as the National Outreach Coordinator for the 67th Year of NASA India (National Association of Students of Architecture).A minimalist design enthusiast at heart, he seeks simplicity and functionality in his work, drawing inspiration from the raw, unadorned beauty of Brutalism. His interests lies in Urban Studies, Planning, and Housing solutions for tribal and marginalized communities. This passion has been further shaped by his involvement with various NGOs. He is currently serving as the International Service Director at the Rotaract Club of Poona South.Beyond academics, his love for travel fuels his curiosity, enabling him to explore diverse architectural styles and cultural landscapes.",
+      "photo": "/media/team/LanthouChung.webp",
+      "bio": "Lanthouchung Gonmei, a dynamic Final-year Architecture student at Pune University, Maharashtra with a deep passion for design and a unique flair for Minimalist and Brutalist Architecture. With a passion for leadership, he has served as the Publicity Secretary of Manipur Students Association Pune and as the National Outreach Coordinator for the 67th Year of NASA India (National Association of Students of Architecture).A minimalist design enthusiast at heart, he seeks simplicity and functionality in his work, drawing inspiration from the raw, unadorned beauty of Brutalism. His interests lies in Urban Studies, Planning, and Housing solutions for tribal and marginalized communities. This passion has been further shaped by his involvement with various NGOs. He currently serves as the Information and Publicity Secretary for the North East Community Organization Pune. Beyond academics, his love for travel fuels his curiosity, enabling him to explore diverse architectural styles and cultural landscapes.",
+      "current_role": "",
+      "achievements": [],
+      "specialties": [],
       "email": "lanthouchung@mitsna.org",
-      "linkedin": "https://www.linkedin.com/in/lanthouchunggonmei?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      "linkedin": "https://www.linkedin.com/in/lanthouchunggonmei?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      "twitter": "",
+      "instagram": "",
+      "website": ""
     },
     {
       "name": "Macmillan Wahengbam",
       "position": "Public Relations Officer",
       "photo": "/media/team/executive-macmillan-wahengbam.jpg",
-      "bio": "Macmillan Wahengbam is a driven and passionate individual with a strong fascination for astronomy, astrophysics, and rocket science. He is currently pursuing his studies to gain a deeper understanding of these fields.In his leisure time, Macmillan enjoys participating in team sports like football and badminton. He is also a music lover and finds it to be a great source of inspiration.Macmillan is committed to giving back to his community and actively participates in volunteer work. He is also an integral part of MitSna, where he utilizes his graphic design skills to contribute to the organization's efforts.Macmillan's ultimate goal is to create a positive impact in his home state of Manipur. He is dedicated to utilizing his skills and knowledge to make a meaningful difference in his community."
+      "bio": "Macmillan Wahengbam is a driven and passionate individual with a strong fascination for astronomy, astrophysics, and rocket science. He is currently pursuing his studies to gain a deeper understanding of these fields.In his leisure time, Macmillan enjoys participating in team sports like football and badminton. He is also a music lover and finds it to be a great source of inspiration.Macmillan is committed to giving back to his community and actively participates in volunteer work. He is also an integral part of MitSna, where he utilizes his graphic design skills to contribute to the organization's efforts.Macmillan's ultimate goal is to create a positive impact in his home state of Manipur. He is dedicated to utilizing his skills and knowledge to make a meaningful difference in his community.",
+      "current_role": "",
+      "achievements": [],
+      "specialties": [],
+      "email": "",
+      "linkedin": "",
+      "twitter": "",
+      "instagram": "",
+      "website": ""
     }
   ]
 }
