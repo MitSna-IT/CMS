@@ -1,19 +1,27 @@
 {
   "name": "Human Resources",
-  "description": "Supporting our team and fostering growth",
+  "description": "Empowering people, building community and scaling a high-vibe, performance-driven culture.",
   "order": 70,
   "members": [
     {
-      "name": "Romanika Elangbam",
-      "position": "Human Resource Executive",
-      "photo": "/media/team/executive-romanika-elangbam.jpg",
-      "bio": "I finished my Bachelors in Business Administration from Institute of Cooperative Management, Lamphelpat in the year 2021 and I’m currently pursuing my MBA final year at NIT, Agratala. I find gardening to be a relaxing and fulfilling activity that brings me joy. My interest in gardening was kindled during my early teens. Most of my plant collection are house plants which include varieties of succulents, monstera, snake plant.I’ve always been a individual who adores to get along with a well enlightened environment. I’m so excited to have such opportunity to get myself contribute in developing our society. I’ve always wanted to help our diverse environment with no distinction. I want to help people around me at my best capacity"
-    },
-    {
-      "name": "PRETTY RAJKUMARI",
+      "name": "Pretty Rajkumari",
       "position": "Assistant Human Resource Executive",
-      "photo": "/media/team/executive-pretty-rajkumari.jpg",
-      "bio": "Pretty Rajkumari is an undergraduate psychology student known for her keen attention to detail and disciplined approach to her work. An introverted extrovert, she enjoys balancing her dedication to tasks with a relaxed demeanor. Outside of work, you’ll often find her immersed in a book, singing, catching up on a movie or drama series, or simply unwinding. A sports enthusiast with a particular passion for basketball, Rajkumari brings both energy and calmness to any environment."
+      "photo": "/media/team/Executive_HR_Pretty.webp",
+      "bio": "Pretty Rajkumari is a final-year Psychology undergraduate at University of Delhi, with a minor in Human Resources Management. Her academic interests lie in research and Clinical Neuropsychology, with a particular focus on the impact of external factors such as social media on personality, self-identity and neurodevelopment using data-driven approaches such as brain imaging and data analysis. Alongside her studies, she has served as the Student Coordinator aka President and General Secretary of the North East Society at her college. At MitSna Foundation, she works as a Human Resources Assistant, coordinating the executive team, managing member onboarding and renewals, and organizing talks and community events. She is dedicated to supporting youth mental health and helping individuals reach their fullest potential. Outside of work and academics, you will find her engaged in puzzles and board games, reflecting and mostly giggling upon her non-fiction rom-com series and jamming her life out every chance she gets. An introverted extrovert, she brings both focus and warmth to every space she enters.",
+      "current_role": "Final Year Psychology Undergraduate at University of Delhi",
+      "achievements": [
+        "Ishan Uday Special Scholarship (UGC)"
+      ],
+      "specialties": [
+        "Data Compilation and Analytics",
+        "Event Coordination and Administration",
+        "Member Onboarding"
+      ],
+      "email": "pretty@mitsna.org",
+      "linkedin": "https://www.linkedin.com/in/pretty-rajkumari/",
+      "twitter": "",
+      "instagram": "https://www.instagram.com/eh_you_know_ya/?hl=en",
+      "website": "https://mitsna.org/Team"
     }
   ]
 }
